@@ -11,5 +11,5 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=Joon-Klaps&hide_border=true&hide=html,php&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Joon-Klaps/github-readme-stats#gh-dark-mode-only)
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=Joon-Klaps&hide_border=true&layout=compact&theme=default#gh-light-mode-only)](https://github.com/Joon-Klaps/github-readme-stats#gh-light-mode-only)
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=Joon-Klaps&hide_border=true&hide=html,php,tex,jupyternotebook&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Joon-Klaps/github-readme-stats#gh-dark-mode-only)
+[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=Joon-Klaps&hide_border=true&hide=html,php,tex,jupyternotebook&layout=compact&theme=default#gh-light-mode-only)](https://github.com/Joon-Klaps/github-readme-stats#gh-light-mode-only)

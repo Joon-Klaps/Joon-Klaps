@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Lassa fever](https://www.who.int/health-topics/lassa-fever#tab=tab_1) and infrastructures to analyse it.  
+- 🔭 I’m currently working on [Lassa fever](https://www.who.int/health-topics/lassa-fever#tab=tab_1) and infrastructures to analyse it.
+- 🔗 Have a read on my [website](https://joon-klaps.github.io/) for more details
 <!-- 
 - 🌱 I’m currently learning more than I can chew most times 
 - 👯 I’m looking to collaborate on ...
